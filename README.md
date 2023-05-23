@@ -4,3 +4,4 @@ resolvo no site BeeCrowd e acho mais interresantes.
 
 # Estudando git
 
+*comando git push
