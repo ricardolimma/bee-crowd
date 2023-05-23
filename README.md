@@ -4,3 +4,4 @@ resolvo no site BeeCrowd e acho mais interresantes.
 comando git pull
 comando git
 comando git fetch
+atualizei
