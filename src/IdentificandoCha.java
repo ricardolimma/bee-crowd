@@ -1,6 +1,8 @@
+package src;
+
 import java.util.Scanner;
 
-public class BeeCrowd {
+public class IdentificandoCha {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int t = input.nextInt();

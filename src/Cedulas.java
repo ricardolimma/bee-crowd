@@ -1,7 +1,9 @@
+package src;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class BeeCrowd1018 {
+public class Cedulas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

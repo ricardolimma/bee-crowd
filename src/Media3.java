@@ -1,7 +1,9 @@
+package src;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Teste {
+public class Media3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float n1 =  sc.nextFloat();

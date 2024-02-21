@@ -1,7 +1,9 @@
+package src;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class Teste {
+public class FormulaDeBhaskara {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float a = sc.nextFloat();
