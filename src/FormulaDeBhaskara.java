@@ -22,7 +22,6 @@ public class FormulaDeBhaskara {
 
         }
 
-
         sc.close();
     }
 }
