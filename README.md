@@ -1,3 +1,2 @@
 # BeeCrowd
-Criei esse repositorio para colocar os problemas que
-resolvo no site BeeCrowd e acho mais interresantes.
+Alguns desafios que resolvo no site Beecrowd para treinar de algoritmos e estrutura de dados.
